@@ -1,2 +1,2 @@
 # CPP
-Repo for CPP programming projects
+Repo for CPP programming projects.
