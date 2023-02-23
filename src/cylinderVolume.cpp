@@ -22,7 +22,7 @@ using namespace std;
 int main() {
 
 const double pi = 3.14159265359; //creates and defines pi variable
-int radius, height; //defines radius and height variables
+double radius, height; //defines radius and height variables
 double volume; //defines variable for volume
 
 cout << "Calculate the volume of a cylinder" <<endl;
